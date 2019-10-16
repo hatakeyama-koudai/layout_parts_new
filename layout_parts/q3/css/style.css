@@ -3,3 +3,39 @@
 /* 回答はここに書いてね */
 
 /* 回答はここに書いてね */
+.q3__contents {
+  width: 100%;
+  table-layout: fixed;
+}
+.table {
+  width: 100%;
+  margin: 0px auto;
+  text-align: center;
+}
+.q3__contents th, .q3__contents td {
+  padding: 10px;
+  border: solid 1px #dedede;
+  vertical-align: middle;
+}
+.q3__contents td {
+  background-color: #2244aa;
+  font-size: 18px;
+  line-height: 26px;
+  color: #dedede;
+  }
+.q3__contents th {
+  font-size: 16px;
+  line-height: 22px;
+}
+tr:nth-child(2n+1){
+  background-color: #ecf1f2;
+}
+tr:last-child{
+  border-top: dashed #000 2px;
+}
+.q3__contents th, .table.6 {
+  padding: 10px;
+  border: 1px solid #dedede;
+  vertical-align: middle;
+}
+
