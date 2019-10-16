@@ -28,4 +28,7 @@
   border: 10px solid #022336;
   background-color: #eaf4ff;
 }
+.q1_contents:first-child{
+  margin: 0 auto;
+}
 /* 回答はここに書いてね */
