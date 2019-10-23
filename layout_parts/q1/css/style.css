@@ -8,7 +8,6 @@
   content: "";
   display: block;
   clear: both;
-  width: 900px;
 }
 .clearfix{
   width: 900px;
@@ -29,6 +28,6 @@
   background-color: #eaf4ff;
 }
 .q1_contents:first-child{
-  margin: 0;
+  margin-left: 0;
 }
 /* 回答はここに書いてね */
