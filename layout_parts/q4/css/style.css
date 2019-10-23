@@ -12,7 +12,7 @@
   background-color: #ECF1F2;
 }
 .q4__contents:first-child{
-  margin: 0 auto;
+  margin: 0;
 }
 .q4__contents__cell {
   display: table-cell;
@@ -35,7 +35,6 @@
 }
 .q4__contents__cell.is-red {
   background-color: #ec8f9a;
-  padding: 20px;
 }
 .q4__contents__cell.is-green {
   background-color: #8fdcad;

@@ -7,7 +7,7 @@
   width: 100%;
   table-layout: fixed;
 }
-.table {
+.q3__contents tr {
   width: 100%;
   margin: 0px auto;
   text-align: center;
@@ -27,10 +27,10 @@
   font-size: 16px;
   line-height: 22px;
 }
-tbody:nth-child(2n+1){
+.q3__contents tbody tr:nth-child(2n){
   background-color: #ecf1f2;
 }
-tbody:last-child{
+.q3__contents tbody tr:last-child{
   border-top: dashed #000 2px;
 }
 
